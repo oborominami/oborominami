@@ -1,0 +1,12 @@
+type Note @model {
+  id: ID!
+  name: String!
+  college: String
+  image: String
+  dzagaku: String
+  nanido:  String
+  keisiki: String
+  good: String
+  manzokudo: String
+  kansou: String
+}
